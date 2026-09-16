@@ -4,7 +4,8 @@
 
 ## 当前内容
 
-- `cover/user-agreement/index.html`：一刻封面用户服务协议，原样复制自现有线上 2026-07-29 版本
+- `cover/user-agreement/index.html`：一刻封面用户服务协议，2026-09-16 同步应用仓库已有的 2026-08-11 版本，覆盖华为账号关联、非消耗型支持商品、支付及退款说明
+- `cover/user-agreement/archive/2026-07-29.html`：一刻封面此前线上版本归档
 - 一刻封面公开地址：https://corevit.github.io/Yike_Agreements/cover/user-agreement/
 - 一刻封面隐私政策继续由华为托管，本仓库不复制其正文。
 
