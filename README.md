@@ -13,6 +13,10 @@
 - `music/user-agreement/index.html`：一刻音乐用户服务协议，2026-09-26 发布版本
 - 一刻音乐用户服务协议公开地址：https://corevit.github.io/Yike_Agreements/music/user-agreement/
 - 一刻音乐隐私政策由华为托管，不在本仓库复制其正文。
+- `safebridge/user-agreement/index.html`：守望鸿龄用户协议，2026-10-07 首次发布版本
+- `safebridge/privacy-policy/index.html`：守望鸿龄隐私政策，2026-10-07 首次发布版本
+- 守望鸿龄用户协议：https://corevit.github.io/Yike_Agreements/safebridge/user-agreement/
+- 守望鸿龄隐私政策：https://corevit.github.io/Yike_Agreements/safebridge/privacy-policy/
 
 ## 维护约定
 
